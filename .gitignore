@@ -1,0 +1,6 @@
+*.session
+__pycache__/
+venv/
+*.session
+__pycache__/
+venv/
